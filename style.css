@@ -281,7 +281,7 @@ h1 {
 .hamburger {
     visibility: visible;
     position: absolute;
-    left: 90%;
+    left: 80%;
     top: 2%;
     font-size: 3rem;
     color: #186684;
